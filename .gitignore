@@ -1,6 +1,13 @@
 # Prerequisites
 *.d
 
+# Text editor swap / backup files
+*.swp
+*~
+
+# The executable program itself
+ls
+
 # Object files
 *.o
 *.ko
